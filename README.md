@@ -1,5 +1,8 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=moosabaloch)
+Hi 👋
+My name is Moosa, I am an iOS Developer. 
+Sometimes I do AWS and the cloud side of things as well. 
 
+Thanks for the visit. 😉
 <!--
 **moosabaloch/moosabaloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
